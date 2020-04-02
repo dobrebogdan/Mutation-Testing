@@ -1,0 +1,17 @@
+ Specificatia programului: 
+ 
+ Se dau 4 numere: num1, num2, num3 si num4. Se cere sa se gaseasca toate numerele care 
+ sunt divizor al lui num1, nu sunt divizor al lui num2, sunt multiplu al lui num3 si nu sunt multiplu al lui num4.
+ 
+ Cerinte:
+ 
+ 1)Formula lui McCabe:
+   M = E - N + 2
+   In cazul nostru M = 22 - 17 + 2 = 7
+  
+ 2) Avem 7 circuite independente
+ 
+ 3) S-a folosit Pitest.
+    Acuratete de omorare a mutanitlor fara testul suplimentar: 87%
+    Acuratete de omorare a mutantilor cu testul suplimentar: 91%
+	Mai multe detalii pot fi gasite in cod.
